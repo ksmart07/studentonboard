@@ -1,0 +1,7 @@
+FirstName,LastName,DateOfBirth,YearGroup,Class,Subjects,ParentEmail,ParentPhone,AdditionalInfo
+Mohammed,Ahmed,2011-09-10,Year7,7A,"Maths;English;Science;History;Geography","parent21@email.com","+44-1234-222221",Transferred from primary school
+Emily,Thompson,2011-10-15,Year7,7B,"Maths;English;Science;French;Art","parent22@email.com","+44-1234-222222",
+Aiden,Murphy,2011-08-22,Year7,7A,"Maths;English;Science;Spanish;Music","parent23@email.com","+44-1234-222223",
+Charlotte,Robinson,2011-11-05,Year7,7C,"Maths;English;Science;History;Drama","parent24@email.com","+44-1234-222224",
+Jack,Harris,2011-07-18,Year7,7B,"Maths;English;Science;Geography;PE","parent25@email.com","+44-1234-222225",
+Amelia,Clark,2011-09-30,Year7,7A,"Maths;English;Science;French;Computing","parent26@email.com","+44-1234-222226",

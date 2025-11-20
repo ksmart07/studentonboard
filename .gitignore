@@ -4,8 +4,12 @@ Logs/
 
 # Reports directory  
 Reports/
-*.html
+Reports/*.html
+Reports/*.csv
+
+# Exclude CSV files except sample templates
 *.csv
+!Sample-*.csv
 
 # PowerShell specific
 *.ps1xml

@@ -1,0 +1,9 @@
+FirstName,LastName,DateOfBirth,YearGroup,Class,Subjects,ParentEmail,ParentPhone,AdditionalInfo
+Emma,Johnson,2018-09-15,Reception,RClassA,,"parent1@email.com","+44-1234-111111",New student from local nursery
+Liam,O'Connor,2018-11-20,Reception,RClassB,,"parent2@email.com","+44-1234-111112",Special educational needs support required
+Sophia,Williams,2018-07-05,Reception,RClassA,,"parent3@email.com","+44-1234-111113",
+Oliver,Brown,2018-10-30,Reception,RClassB,,"parent4@email.com","+44-1234-111114",
+Ava,Jones,2018-08-12,Reception,RClassA,,"parent5@email.com","+44-1234-111115",
+Noah,Taylor,2018-12-03,Reception,RClassB,,"parent6@email.com","+44-1234-111116",
+Isabella,Davies,2018-09-25,Reception,RClassA,,"parent7@email.com","+44-1234-111117",
+James,Wilson,2018-11-08,Reception,RClassB,,"parent8@email.com","+44-1234-111118",

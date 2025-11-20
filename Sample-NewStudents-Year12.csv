@@ -1,0 +1,7 @@
+FirstName,LastName,DateOfBirth,YearGroup,Class,Subjects,ParentEmail,ParentPhone,AdditionalInfo
+Benjamin,Lee,2007-09-05,Year12,12A,"Maths;Physics;Chemistry;Further Maths","parent31@email.com","+44-1234-333331",From another secondary school
+Grace,White,2007-10-12,Year12,12B,"English;History;Psychology;Sociology","parent32@email.com","+44-1234-333332",Continuing from Year 11
+Lucas,Martin,2007-08-28,Year12,12A,"Biology;Chemistry;Maths;Psychology","parent33@email.com","+44-1234-333333",From another secondary school
+Mia,Jackson,2007-11-20,Year12,12C,"Art;Graphics;Photography;English","parent34@email.com","+44-1234-333334",Continuing from Year 11
+Ethan,Thomas,2007-07-15,Year12,12B,"Economics;Business;Maths;Geography","parent35@email.com","+44-1234-333335",From another secondary school
+Sophie,Roberts,2007-09-22,Year12,12A,"French;Spanish;English;History","parent36@email.com","+44-1234-333336",Continuing from Year 11
