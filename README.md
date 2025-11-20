@@ -1,4 +1,4 @@
-# studentonboard
+# Student Onboarding Offboaridng Powershell
 Student Lifecycle Management System
 Overview
 Comprehensive PowerShell automation for managing student accounts through their entire educational journey - from Reception to Year 13, including onboarding, year group transitions, and offboarding.
